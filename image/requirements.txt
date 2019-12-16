@@ -1,14 +1,7 @@
-rtree
-trimesh
 matplotlib
-scikit-image
-shapely
 svg.path
 lxml
-tensorboardX
-timeout-decorator
 pyglet
 tqdm
-torch
-torchvision
 scikit-learn
+
