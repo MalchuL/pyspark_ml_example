@@ -29,6 +29,6 @@ COPY spark_model.ipynb work/spark_model.ipynb
 RUN chmod 777 work/spark_model.ipynb
 
 
-#RUN chown -R $USER hdfs_data/
+ENTRYPOINT jupyter notebook --NotebookApp.token= --allow-root
 
 
