@@ -4,4 +4,6 @@ lxml
 pyglet
 tqdm
 scikit-learn
-
+plotly
+pandas
+plotly-express

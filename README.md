@@ -6,7 +6,7 @@ This is my baseline for this competition: https://www.drivendata.org/competition
 
 ## Steps to reproduce
 
-In first you must download data from [here](https://drive.google.com/open?id=1S5U_KWq_1krY66az11lxz166pEQmIbxm) and extract all data into *data* folder.
+In first you must download data from [here](https://drive.google.com/open?id=1S5U_KWq_1krY66az11lxz166pEQmIbxm) and extract all data into *image/data* folder.
 
 Then
 
