@@ -37,5 +37,3 @@ RUN chmod 777 work/spark_model.ipynb
 ENTRYPOINT jupyter notebook --NotebookApp.token= --allow-root
 
 
-
-
